@@ -1,6 +1,6 @@
-package nikitocheck.interview.t.money_transfer.external;
+package nikitocheck.interview.t.moneytransfer.external;
 
-import nikitocheck.interview.t.money_transfer.domain.MoneyTransfer;
+import nikitocheck.interview.t.moneytransfer.domain.MoneyTransfer;
 
 import java.time.LocalDateTime;
 

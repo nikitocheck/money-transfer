@@ -1,4 +1,4 @@
-package nikitocheck.interview.t.money_transfer.external;
+package nikitocheck.interview.t.moneytransfer.external;
 
 public class ServiceNotAvailableException extends RuntimeException {
 }
